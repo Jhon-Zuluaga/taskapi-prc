@@ -1,0 +1,10 @@
+## Directorios de compilación e intermedios (.NET)
+bin/
+obj/
+
+## Archivos de usuario e IDEs
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
